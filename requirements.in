@@ -1,8 +1,0 @@
-numpy
-matplotlib==3.5.*
-seaborn==0.10.1
-pandas
-scipy
-ipywidgets==7.5.*
-
-
