@@ -1,0 +1,8 @@
+ipywidgets==7.5.1
+matplotlib>=3.2
+numpy
+pandas
+scipy
+ipympl
+voila
+Ipython==7.13.0
